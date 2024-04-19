@@ -30,6 +30,8 @@ Publications: Most upto date stuff can be found on <a href="https://www.semantic
       <dd> Mentored 5 graduate students on efficient variants of GNNs at the <a href="https://www.logml.ai/people/mentor22/kaustubh">London Geometry & Machine Learning Summer School, 2022</a> </dd>
       <dd> Invited as Speaker & Guest of Honour at VIT's <a href="https://vit.edu.in/images/newsletters/it/INFT_Newsletter_July%202021.pdf">ICAITR 2021</a>, Mumbai. Gave a short talk on "NLP in the Past Decade" </dd>
    <dd> Bioinformatics article was featured on-line on Global Medical Discovery [ISSN 1929-8536] as a Key Scientific Article contributing to excellence in biomedical research. </dd>
+<dt>Management:</dt>
+   <dd> Managed and led the Indian R&D Science Team of Amelia, IPsoft responsible for shipping the NLP stack of Amelia v2, v3, and v4 (2015 to 2021). The NLP stack comprised various backend and frontend components viz., 
 </dl>
 
 
