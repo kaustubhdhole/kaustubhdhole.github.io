@@ -13,7 +13,6 @@ Currently, I am focusing on
    <dd> - RAG Evaluation </dd>
    <dd> - Identifying Datasets for Pretraining and Midtraining for Reasoning-Based Tasks </dd>
    <dd> - Post-Training for Math Reasoning</dd>
-   <dd> - Scaling Laws for Retrieval and Reasoning </dd>
 </dt>
 
 * * *
