@@ -8,6 +8,14 @@ I completed my bachelor's at <a href="https://www.youtube.com/watch?v=0QMVS7AQ6h
 
 In the summers of the past 4 years (2022 to 2025), I collaborated with the Natural Understanding Team, (now Alexa AGI) at Amazon, Alexa in New York, and San Jose on multi-task learning for their LLMs and creating simulators for training LLMs, in the Search Experience Science team at [Seattle ⛰️](https://youtu.be/vDKQa-MYLOQ?feature=shared), and the Stores Foundational AI team on Pretraining and Midtraining Dataset Valuation for Reasoning Tasks.
 
+Currently, I am focusing on 
+<dt>
+   <dd> - RAG Evaluation </dd>
+   <dd> - Identifying Datasets for Pretraining and Midtraining for Reasoning-Based Tasks </dd>
+   <dd> - Post-Training for Math Reasoning</dd>
+   <dd> - Scaling Laws for Retrieval and Reasoning </dd>
+</dt>
+
 * * *
 
 {% include timeline.html %}
