@@ -41,7 +41,7 @@ Currently, I am focusing on
 <dl>
    <dt>Workshops:</dt>
       <dd> - Co-organizer of the Generation, Evaluation & Metrics Workshops <a href="https://gem-benchmark.com/workshop">GEM</a> 2021, GEM 2022, GEM 2023, 2025.</dd>
-      <dd> - Co-organizer of the wisdom-of-researchers collaboration <a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank">NL-Augmenter</a> and a key contributor of LLM task benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf" target="_blank">BIG-Bench</a>.</dd>
+      <dd> - Co-organizer of the wisdom-of-researchers collaboration to create the largest data augmentation repository<a href="https://aclanthology.org/2023.nejlt-1.5.pdf" target="_blank">NL-Augmenter</a> and a key contributor of LLM task benchmark <a href="https://arxiv.org/pdf/2206.04615.pdf" target="_blank">BIG-Bench</a>.</dd>
 </dl>
 <dl>
    <dt>Recent Mentoring/Speaking:</dt>
