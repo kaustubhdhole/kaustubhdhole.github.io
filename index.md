@@ -99,11 +99,11 @@ Currently, I am focusing on
 </a>
      <a href="https://www.youtube.com/watch?v=WTpZVlzoNuE" target="_blank">
     <img src="https://img.youtube.com/vi/WTpZVlzoNuE/0.jpg" alt="Video 4" width="150" class="thumbnail">
-</a>  
+</a>
 </dl>       
 If you want to get in touch or are interested in collaborating, feel free to reach me at kdhole AT emory DOT edu (or <a href="https://www.linkedin.com/in/kaustubh-dhol%C3%A9-3929b32a/" target="_blank">LinkedIN</a> or <a href="https://twitter.com/kaustubhdhole" target="_blank">Twitter</a> where I'm sometimes active.)
 
-Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/" target="_blank">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/" target="_blank">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/" target="_blank"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/" target="_blank">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/" target="_blank">cook this</a>!
+Long ago, I used to maintain a personal <a href="https://kaustubhdhole.wordpress.com/">blog</a> on WordPress where I mostly wrote non-NLP stuff on rare occasions! You can find some of my random writings on <a href="https://kaustubhdhole.wordpress.com/category/political/" target="_blank">Politics</a>, <a href="https://kaustubhdhole.wordpress.com/category/nlp/" target="_blank">Linguistics</a>, some <a href="https://kaustubhdhole.wordpress.com/2020/02/29/a-few-random-books-that-i-found-interesting-and-a-few-which-i-didnt/" target="_blank"> book reviews</a> and sometimes when I've gone <a href="https://kaustubhdhole.wordpress.com/category/travel/" target="_blank">backpacking</a>! One serious advice - <a href="https://kaustubhdhole.wordpress.com/2021/11/26/caxtons-tex-mex-mashed-potatoes/" target="_blank">cook this</a>! And if you want motivation to pursue a career in linguistics, NLP, or AI in general, virtual visit [the language museum](https://youtu.be/4VgCm3q7t_s) in DC!
 
 Test out your AI skills at <a href="https://kaustubhdhole.github.io/llm-quiz-time/">LLM Quiz Time</a> and <a href="https://kaustubhdhole.github.io//quiz-badminton/">Quiz Badminton</a>, or check what are the commmon words between languages ([United Lexicons](https://kaustubhdhole.github.io/united-lexicons/)).
 
