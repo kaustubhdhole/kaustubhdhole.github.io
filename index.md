@@ -45,6 +45,7 @@ Currently, I am focusing on
 </dl>
 <dl>
    <dt>Recent Mentoring/Speaking:</dt>
+      <dd> - Gave a talk on my work on From Traditional NLP Agents to Reasoning Agents at Stanford University of my work at Amelia.ai and Emory</dd>
       <dd> - Presented some of the work on <a href="https://arxiv.org/pdf/2412.05206">RAG evaluation</a> at the Workshop on <a href="https://ir-ai.github.io/">Task Focussed IR in the Era of Generative AI</a> at Redmond, Microsoft Research </dd>
       <dd> - Gave a talk on Retrieval Augmented Generation at the University of Edinburgh, 2024 while on my visit to present <a href="https://arxiv.org/abs/2405.17658" target="_blank">LLM based reformulation</a> at <a href="https://www.youtube.com/playlist?list=PLfwN-5WMJARyxxkmTpVfHG1toT0u0tx-G" target="_blank">ECIR 2024, Scotland</a> </dd>
    <dd> - <a href="https://www.iarpa.gov/research-programs/better">Intelligence Advanced Research Projects Activity, USA (IARPA) funded project BETTER </a>: Presented IR work at IARPA Demo Day, Maryland. Check <a href="https://www.iarpa.gov/images/research-programs/BETTER/BETTER_ProgramArtifacts.pdf#page=4">related publications</a>. </dd>
