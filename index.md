@@ -12,14 +12,6 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
 
 {% include timeline.html %}
 
-<dl>
-   <dt>Areas of Interest:</dt>
-   <dd><a href="https://arxiv.org/pdf/2511.09222" target="_blank">Reasoning and Reinforcement Learning</a>,<a href="https://openreview.net/pdf?id=CSi1eu_2q96" target="_blank">NLG Evaluation</a>, <a href="https://arxiv.org/pdf/2405.17658" target="_blank">Retrieval</a>, <a href="https://aclanthology.org/2024.scichat-1.5/" target="_blank">Retrieval Augmented Generation</a>, <a href="https://aclanthology.org/2025.naacl-long.293.pdf">RAG Evaluation</a></dd>
-   <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
-   <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf" target="_blank">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf" target="_blank">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf" target="_blank">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf" target="_blank">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/" target="_blank">Bigger Picture of LLMs</a></dd>
-</dl>
-
-
 * * *
 <dl>
   <dt>Publications:</dt>
@@ -58,6 +50,14 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
 </dl> -->
 
 * * *
+<dl>
+   <dt>Areas of Interest:</dt>
+   <dd><a href="https://arxiv.org/pdf/2511.09222" target="_blank">Reasoning and Reinforcement Learning</a>,<a href="https://openreview.net/pdf?id=CSi1eu_2q96" target="_blank">NLG Evaluation</a>, <a href="https://arxiv.org/pdf/2405.17658" target="_blank">Retrieval</a>, <a href="https://aclanthology.org/2024.scichat-1.5/" target="_blank">Retrieval Augmented Generation</a>, <a href="https://aclanthology.org/2025.naacl-long.293.pdf">RAG Evaluation</a></dd>
+   <dt>Other Areas I'm happy to collaborate or have coffee chat ons:</dt>
+   <dd><a href="https://aclanthology.org/2021.acl-short.13.pdf" target="_blank">Dialog</a> <a href="https://arxiv.org/pdf/2008.07559.pdf" target="_blank">Systems</a>, <a href="https://arxiv.org/pdf/2206.02849.pdf" target="_blank">Graph Neural Networks</a>, <a href="https://arxiv.org/pdf/2112.02721.pdf" target="_blank">Data Augmentation</a>, Efficient Transformers, Privacy Preserving ML, <a href="https://aclanthology.org/2023.bigpicture-1.6/" target="_blank">Bigger Picture of LLMs</a></dd>
+</dl>
+
+***
 
 <dl>
    <dt>Workshops:</dt>
