@@ -21,10 +21,41 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
 
 
 * * *
-
 <dl>
-   <dt>Publications:</dt> Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+  <dt>Publications:</dt>
+
+  <dd>
+    <ul>
+      <li>
+        <b>ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges</b>
+        — <a href="https://aclanthology.org/2025.naacl-long.293.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <b>AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation</b>
+        — <a href="https://aclanthology.org/2025.starsem-1.32.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <b>Generative Query Reformulation Using Ensemble Prompting, Document Fusion, and Relevance Feedback</b>
+        — <a href="https://arxiv.org/pdf/2405.17658.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <b>GenQREnsemble: Zero-Shot LLM Ensemble Prompting for Generative Query Reformulation</b>
+        — <a href="https://arxiv.org/pdf/2404.03746.pdf" target="_blank">PDF</a>
+      </li>
+    </ul>
+  </dd>
+
+  <dd>
+    Most upto date stuff can be found on
+    <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a>
+    and
+    <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+  </dd>
 </dl>
+
+<!-- <dl>
+   <dt>Publications:</dt> Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
+</dl> -->
 
 * * *
 
