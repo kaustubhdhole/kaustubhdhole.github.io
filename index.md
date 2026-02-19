@@ -15,15 +15,15 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
   <dd>
     <ul>
       <li>
-        <b>(NAACL 2025) ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges</b> <a href="https://aclanthology.org/2025.naacl-long.293.pdf" target="_blank">Link</a>
+        <b>(NAACL 2025) ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges</b> <a href="https://aclanthology.org/2025.naacl-long.293.pdf" target="_blank">[Link]</a>
       </li>
       <li>
         <b>(SEM 2025) AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation</b>
-        — <a href="https://aclanthology.org/2025.starsem-1.32.pdf" target="_blank">PDF</a>
+        <a href="https://aclanthology.org/2025.starsem-1.32.pdf" target="_blank">[Link]</a>
       </li>
       <li>
         <b>(ECIR 2024) Generative Query Reformulation Using Ensemble Prompting, Document Fusion, and Relevance Feedback</b>
-        — <a href="https://arxiv.org/pdf/2405.17658.pdf" target="_blank">PDF</a>
+        <a href="https://arxiv.org/pdf/2405.17658.pdf" target="_blank">[Link]</a>
       </li>
     </ul>
   </dd>
