@@ -9,12 +9,8 @@ I completed my bachelor's at <a href="https://www.youtube.com/watch?v=0QMVS7AQ6h
 In the summers of the past 4 years (2022 to 2025), I collaborated with the Natural Understanding Team, (now Alexa AGI) at Amazon, Alexa in New York, and San Jose on multi-task learning for their LLMs and creating simulators for training LLMs, in the Search Experience Science team at [Seattle ⛰️](https://youtu.be/vDKQa-MYLOQ?feature=shared), and the Stores Foundational AI team on Pretraining and Midtraining Dataset Valuation for Reasoning Tasks.
 
 * * *
-
-{% include timeline.html %}
-
-* * *
 <dl>
-  <dt>Recent Publications:</dt>
+  <dt>Some of my Recent Publications:</dt>
 
   <dd>
     <ul>
@@ -43,6 +39,10 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
 <!-- <dl>
    <dt>Publications:</dt> Most upto date stuff can be found on <a href="https://www.semanticscholar.org/author/Kaustubh-D.-Dhole/4834571?sort=pub-date">Semantic Scholar</a> and <a href="https://scholar.google.co.in/citations?hl=en&user=xSGbQ3oAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>.
 </dl> -->
+
+* * *
+
+{% include timeline.html %}
 
 * * *
 <dl>
