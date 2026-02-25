@@ -22,6 +22,10 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
         <b>(SEM 2025) AdvERSEM: Adversarial Robustness Testing and Training of LLM-based Groundedness Evaluators via Semantic Structure Manipulation</b>
         <a href="https://aclanthology.org/2025.starsem-1.32.pdf" target="_blank">[Link]</a>
       </li>
+       <li>
+        <b>(SCI-CHAT EACL 2024) Kaucus: Knowledge Augmented User Simulators for Training Language Model Assistants</b>
+        <a href="https://aclanthology.org/2024.scichat-1.5.pdf" target="_blank">[Link]</a>
+      </li>
       <li>
         <b>(ECIR 2024) Generative Query Reformulation Using Ensemble Prompting, Document Fusion, and Relevance Feedback</b>
         <a href="https://arxiv.org/pdf/2405.17658.pdf" target="_blank">[Link]</a>
@@ -29,11 +33,6 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
       <li>
         <b>(NAACL 2024) DUQGen: Effective Unsupervised Domain Adaptation of Neural Rankers by Diversifying Synthetic Query Generation</b>
         <a href="https://aclanthology.org/2024.naacl-long.413.pdf" target="_blank">[Link]</a>
-      </li>
-      
-       <li>
-        <b>(SCI-CHAT EACL 2024) Kaucus: Knowledge Augmented User Simulators for Training Language Model Assistants</b>
-        <a href="https://aclanthology.org/2024.scichat-1.5.pdf" target="_blank">[Link]</a>
       </li>
       <li>
         <b>(Logical and Symbolic Reasoning in Language Models @ AAAI 2026) Stabilizing Reinforcement Learning for Honesty Alignment in Language Models on Deductive Reasoning</b>
