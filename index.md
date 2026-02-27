@@ -35,7 +35,7 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
         <a href="https://aclanthology.org/2024.naacl-long.413.pdf" target="_blank">[Link]</a>
       </li>
       <li>
-        <b>(Logical and Symbolic Reasoning in Language Models @ AAAI 2026) Stabilizing Reinforcement Learning for Honesty Alignment in Language Models on Deductive Reasoning</b>
+        <b>(Logical & Symbolic Reasoning in LMs @ AAAI 2026) Stabilizing Reinforcement Learning for Honesty Alignment in Language Models on Deductive Reasoning</b>
         <a href="https://arxiv.org/pdf/2511.09222" target="_blank">[Link]</a>
       </li>
     </ul>
