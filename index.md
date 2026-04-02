@@ -16,6 +16,12 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
   <dd>
     <ul>
       <li>
+        <b>(SIGIR 2026) RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation</b> <a href="https://arxiv.org/abs/2603.20882" target="_blank">[Link]</a>
+      </li>
+      <li>
+        <b>(SIGIR 2026) Designing Diverse RAG Benchmarks: A Hierarchical Framework for Synthetic Question Generation</b> <a href="https://arxiv.org/pdf/2506.22644" target="_blank">[Link]</a>
+      </li>
+      <li>
         <b>(NAACL 2025) ConQRet: Benchmarking Fine-Grained Evaluation of Retrieval Augmented Argumentation with LLM Judges</b> <a href="https://aclanthology.org/2025.naacl-long.293.pdf" target="_blank">[Link]</a>
       </li>
       <li>
