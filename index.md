@@ -97,11 +97,15 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
    <dd>55 Researchers From 44 Institutions Propose GEM, a ‘Living Benchmark’ for NLG <a href='https://syncedreview.com/2021/02/05/55-researchers-from-44-institutions-propose-gem-a-living-benchmark-for-nlg/'>Synced Technology Review, 2021</a></dd>
 </dl>
 <dl>
-   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>     
+   <dt>Recent Lectures on Retrieval Augmented Generation (April 2026):</dt>     
 <br/>
   <a href="https://youtu.be/T6-LexCNb6A?t=109" target="_blank">
     <img src="https://img.youtube.com/vi/T6-LexCNb6A/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
+</dl>
+<dl>
+   <dt>Recent Lectures on Retrieval Augmented Generation (May 2024):</dt>     
+<br/>
 <a href="https://www.youtube.com/watch?v=o2SdjWQrLhA&list=PLfwN-5WMJARxpQlFweH7eQmy8vV93HgKB" target="_blank">
     <img src="https://img.youtube.com/vi/o2SdjWQrLhA/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
