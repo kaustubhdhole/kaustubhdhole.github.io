@@ -105,7 +105,6 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
   <a href="https://youtu.be/FjWEolPzSy8" target="_blank">
     <img src="https://img.youtube.com/vi/FjWEolPzSy8/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
-  </a>
   <a href="https://youtu.be/lFxIuzrTREE" target="_blank">
     <img src="https://img.youtube.com/vi/lFxIuzrTREE/0.jpg" alt="Video 1" width="150" class="thumbnail">
 </a>
