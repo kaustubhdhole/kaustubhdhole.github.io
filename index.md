@@ -158,7 +158,7 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
     <img src="https://img.youtube.com/vi/WTpZVlzoNuE/0.jpg" alt="Video 4" width="150" class="thumbnail">
 </a>
 </dl>       
-If you want to get in touch or are interested in collaborating, feel free to reach me at kdhole AT stanford DOT edu (or <a href="https://www.linkedin.com/in/kaustubh-dhole/" target="_blank">LinkedIN</a>)
+If you need any mentorship for a project, feel free to reach me at kdhole AT stanford DOT edu (or <a href="https://www.linkedin.com/in/kaustubh-dhole/" target="_blank">LinkedIN</a>)
 <details>
   <summary><b>Earlier Blogging Days:</b></summary>
 
