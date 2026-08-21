@@ -21,6 +21,9 @@ In the summers of the past 4 years (2022 to 2025), I collaborated with the Natur
   <dd>
     <ul>
       <li>
+        <b>(EMNLP Findings 2026) ExecRubrics: Executable Tool-Augmented Rubrics for Verifiable, Efficient and Explainable Evaluation</b>
+      </li>
+      <li>
         <b>(SIGIR 2026) RubricRAG: Towards Interpretable and Reliable LLM Evaluation via Domain Knowledge Retrieval for Rubric Generation</b> <a href="https://arxiv.org/abs/2603.20882" target="_blank">[Link]</a>
       </li>
       <li>
