@@ -4,7 +4,7 @@ layout: default
 
 I'm a post-doctoral researcher at Stanford University. I completed my PhD from Emory University's Department of Computer Science. I deal with a wide variety of **evaluation** problems which generally fall under Natural Language Processing & Information Retrieval. My long-term research goal is to build autonomous systems that can reason with evidence and operate as trustworthy collaborators in high-stakes decision-making. I focus on methods that let artificial intelligence (AI) systems (1) retrieve and organize the external knowledge they rely on intelligently and autonomously, (2) provide evaluations that are interpretable, holistic and optimizable (3) act as accountable and goal-aligned decision partners for language, clinical support, scientific discovery, and policy rhetoric.
 
-<details>
+<!-- <details> -->
   <summary><b>Previous experience & background</b></summary>
 
   <br>
@@ -12,7 +12,7 @@ I completed my bachelor's at <a href="https://www.youtube.com/watch?v=0QMVS7AQ6h
 
 In the summers of the past 4 years (2022 to 2025), I collaborated with the Natural Understanding Team, (now Alexa AGI) at Amazon, Alexa in New York, and San Jose on multi-task learning for their LLMs and creating simulators for training LLMs, in the Search Experience Science team at <a href="https://youtu.be/vDKQa-MYLOQ?feature=shared" target="_blank">Seattle ⛰️</a>, and the Stores Foundational AI team on Pretraining and Midtraining Dataset Valuation for Reasoning Tasks.
 
-</details>
+<!--</details> -->
 
 * * *
 <dl>
